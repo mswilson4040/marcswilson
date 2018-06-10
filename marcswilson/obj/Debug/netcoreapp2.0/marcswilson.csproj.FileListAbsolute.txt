@@ -1,0 +1,10 @@
+/Users/marc/RiderProjects/marcswilson/marcswilson/bin/Debug/netcoreapp2.0/marcswilson.deps.json
+/Users/marc/RiderProjects/marcswilson/marcswilson/bin/Debug/netcoreapp2.0/marcswilson.runtimeconfig.json
+/Users/marc/RiderProjects/marcswilson/marcswilson/bin/Debug/netcoreapp2.0/marcswilson.runtimeconfig.dev.json
+/Users/marc/RiderProjects/marcswilson/marcswilson/bin/Debug/netcoreapp2.0/marcswilson.dll
+/Users/marc/RiderProjects/marcswilson/marcswilson/bin/Debug/netcoreapp2.0/marcswilson.pdb
+/Users/marc/RiderProjects/marcswilson/marcswilson/obj/Debug/netcoreapp2.0/marcswilson.csproj.CoreCompileInputs.cache
+/Users/marc/RiderProjects/marcswilson/marcswilson/obj/Debug/netcoreapp2.0/marcswilson.AssemblyInfoInputs.cache
+/Users/marc/RiderProjects/marcswilson/marcswilson/obj/Debug/netcoreapp2.0/marcswilson.AssemblyInfo.cs
+/Users/marc/RiderProjects/marcswilson/marcswilson/obj/Debug/netcoreapp2.0/marcswilson.dll
+/Users/marc/RiderProjects/marcswilson/marcswilson/obj/Debug/netcoreapp2.0/marcswilson.pdb
