@@ -12601,7 +12601,7 @@
       "projectName": "marcswilson",
       "projectPath": "/Users/marc/RiderProjects/marcswilson/marcswilson/marcswilson.csproj",
       "packagesPath": "/Users/marc/.nuget/packages/",
-      "outputPath": "/Users/marc/RiderProjects/marcswilson/marcswilson/obj/",
+      "outputPath": "/Users/marc/RiderProjects/marcswilson/marcswilson/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -12629,19 +12629,19 @@
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
-          "Microsoft.AspNetCore.All": {
-            "target": "Package",
-            "version": "[2.0.5, )"
-          },
-          "Microsoft.AspNetCore.SpaServices.Extensions": {
-            "target": "Package",
-            "version": "[2.1.0, )"
-          },
           "Microsoft.NETCore.App": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "[2.0.0, )",
+            "version": "2.0",
             "autoReferenced": true
+          },
+          "Microsoft.AspNetCore.All": {
+            "target": "Package",
+            "version": "2.0.5"
+          },
+          "Microsoft.AspNetCore.SpaServices.Extensions": {
+            "target": "Package",
+            "version": "2.1.0"
           }
         },
         "imports": [
