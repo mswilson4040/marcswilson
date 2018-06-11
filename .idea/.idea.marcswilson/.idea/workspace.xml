@@ -2,10 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0cf4212-f6d6-4233-9b7d-95fefe90aa4c" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/marcswilson/wwwroot/ngApp/src/app/app.component.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/marcswilson/wwwroot/ngApp/src/app/views/home-view/home-view.component.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/marcswilson/wwwroot/ngApp/src/app/views/home-view/home-view.component.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/marcswilson/wwwroot/ngApp/src/app/views/home-view/home-view.component.spec.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/marcswilson/wwwroot/ngApp/src/app/views/home-view/home-view.component.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/marcswilson/wwwroot/ngApp/src/styles.scss" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.marcswilson/.idea/contentModel.xml" afterPath="$PROJECT_DIR$/.idea/.idea.marcswilson/.idea/contentModel.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.marcswilson/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.marcswilson/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/marcswilson/.vs/marcswilson/xs/UserPrefs.xml" afterPath="$PROJECT_DIR$/marcswilson/.vs/marcswilson/xs/UserPrefs.xml" />
+      <change beforePath="$PROJECT_DIR$/marcswilson/Startup.cs" afterPath="$PROJECT_DIR$/marcswilson/Startup.cs" />
+      <change beforePath="$PROJECT_DIR$/marcswilson/bin/Debug/netcoreapp2.0/marcswilson.deps.json" afterPath="$PROJECT_DIR$/marcswilson/bin/Debug/netcoreapp2.0/marcswilson.deps.json" />
       <change beforePath="$PROJECT_DIR$/marcswilson/bin/Debug/netcoreapp2.0/marcswilson.dll" afterPath="$PROJECT_DIR$/marcswilson/bin/Debug/netcoreapp2.0/marcswilson.dll" />
+      <change beforePath="$PROJECT_DIR$/marcswilson/bin/Debug/netcoreapp2.0/marcswilson.pdb" afterPath="$PROJECT_DIR$/marcswilson/bin/Debug/netcoreapp2.0/marcswilson.pdb" />
       <change beforePath="$PROJECT_DIR$/marcswilson/marcswilson.csproj" afterPath="$PROJECT_DIR$/marcswilson/marcswilson.csproj" />
+      <change beforePath="$PROJECT_DIR$/marcswilson/obj/Debug/netcoreapp2.0/marcswilson.dll" afterPath="$PROJECT_DIR$/marcswilson/obj/Debug/netcoreapp2.0/marcswilson.dll" />
+      <change beforePath="$PROJECT_DIR$/marcswilson/obj/Debug/netcoreapp2.0/marcswilson.pdb" afterPath="$PROJECT_DIR$/marcswilson/obj/Debug/netcoreapp2.0/marcswilson.pdb" />
+      <change beforePath="$PROJECT_DIR$/marcswilson/obj/marcswilson.csproj.nuget.cache" afterPath="$PROJECT_DIR$/marcswilson/obj/marcswilson.csproj.nuget.cache" />
+      <change beforePath="$PROJECT_DIR$/marcswilson/obj/marcswilson.csproj.nuget.g.props" afterPath="$PROJECT_DIR$/marcswilson/obj/marcswilson.csproj.nuget.g.props" />
+      <change beforePath="$PROJECT_DIR$/marcswilson/obj/project.assets.json" afterPath="$PROJECT_DIR$/marcswilson/obj/project.assets.json" />
+      <change beforePath="$PROJECT_DIR$/marcswilson/obj/project.packagespec.json" afterPath="$PROJECT_DIR$/marcswilson/obj/project.packagespec.json" />
+      <change beforePath="$PROJECT_DIR$/marcswilson/wwwroot/ngApp/angular.json" afterPath="$PROJECT_DIR$/marcswilson/wwwroot/ngApp/angular.json" />
+      <change beforePath="$PROJECT_DIR$/marcswilson/wwwroot/ngApp/src/app/app-routing.module.ts" afterPath="$PROJECT_DIR$/marcswilson/wwwroot/ngApp/src/app/app-routing.module.ts" />
+      <change beforePath="$PROJECT_DIR$/marcswilson/wwwroot/ngApp/src/app/app.component.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/marcswilson/wwwroot/ngApp/src/app/app.component.html" afterPath="$PROJECT_DIR$/marcswilson/wwwroot/ngApp/src/app/app.component.html" />
+      <change beforePath="$PROJECT_DIR$/marcswilson/wwwroot/ngApp/src/app/app.component.ts" afterPath="$PROJECT_DIR$/marcswilson/wwwroot/ngApp/src/app/app.component.ts" />
+      <change beforePath="$PROJECT_DIR$/marcswilson/wwwroot/ngApp/src/app/app.module.ts" afterPath="$PROJECT_DIR$/marcswilson/wwwroot/ngApp/src/app/app.module.ts" />
+      <change beforePath="$PROJECT_DIR$/marcswilson/wwwroot/ngApp/src/styles.css" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,109 +39,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/marcswilson/Program.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1528588417618" expanded="false" signature="6:255" ph="..." />
-                <marker date="1528588417618" expanded="true" signature="278:599" ph="{...}" />
-                <marker date="1528588417618" expanded="true" signature="305:597" ph="{...}" />
-                <marker date="1528588417618" expanded="true" signature="358:416" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Startup.cs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Startup.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/marcswilson/Startup.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state relative-caret-position="240">
+              <caret line="24" column="30" lean-forward="false" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
               <folding>
-                <marker date="1528589657673" expanded="false" signature="6:309" ph="..." />
-                <marker date="1528589657673" expanded="true" signature="332:1848" ph="{...}" />
-                <marker date="1528589657673" expanded="true" signature="359:1846" ph="{...}" />
-                <marker date="1528589657673" expanded="true" signature="418:481" ph="{...}" />
-                <marker date="1528589657673" expanded="true" signature="704:864" ph="{...}" />
-                <marker date="1528589657673" expanded="true" signature="1052:1840" ph="{...}" />
-                <marker date="1528589657673" expanded="true" signature="1099:1176" ph="{...}" />
-                <marker date="1528589657673" expanded="true" signature="1193:1277" ph="{...}" />
-                <marker date="1528589657673" expanded="true" signature="1383:1554" ph="{...}" />
-                <marker date="1528589657673" expanded="true" signature="1599:1828" ph="{...}" />
-                <marker date="1528589657673" expanded="true" signature="1713:1814" ph="{...}" />
+                <marker date="1528666705391" expanded="false" signature="6:309" ph="..." />
+                <marker date="1528666705391" expanded="true" signature="332:1904" ph="{...}" />
+                <marker date="1528666705391" expanded="true" signature="359:1902" ph="{...}" />
+                <marker date="1528666705391" expanded="true" signature="418:481" ph="{...}" />
+                <marker date="1528666705391" expanded="true" signature="704:904" ph="{...}" />
+                <marker date="1528666705391" expanded="true" signature="1092:1896" ph="{...}" />
+                <marker date="1528666705391" expanded="true" signature="1139:1216" ph="{...}" />
+                <marker date="1528666705391" expanded="true" signature="1233:1317" ph="{...}" />
+                <marker date="1528666705391" expanded="true" signature="1423:1594" ph="{...}" />
+                <marker date="1528666705391" expanded="true" signature="1639:1884" ph="{...}" />
+                <marker date="1528666705391" expanded="true" signature="1753:1870" ph="{...}" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="marcswilson.csproj" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/marcswilson/marcswilson.csproj">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" column="71" lean-forward="false" selection-start-line="34" selection-start-column="71" selection-end-line="34" selection-end-column="71" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="marcswilson.sln" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/marcswilson.sln">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bundleconfig.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/marcswilson/bundleconfig.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="appsettings.Development.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/marcswilson/appsettings.Development.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="appsettings.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/marcswilson/appsettings.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/marcswilson/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="9" lean-forward="false" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/marcswilson/wwwroot/ngApp/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -127,6 +65,7 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
+      <find>ngapp</find>
       <find>ngap</find>
     </findStrings>
   </component>
@@ -144,10 +83,11 @@
         <option value="$PROJECT_DIR$/marcswilson/Controllers/HomeController.cs" />
         <option value="$PROJECT_DIR$/marcswilson/Views/Shared/_ValidationScriptsPartial.cshtml" />
         <option value="$PROJECT_DIR$/marcswilson/Views/Shared/_Layout.cshtml" />
-        <option value="$PROJECT_DIR$/marcswilson/Startup.cs" />
         <option value="$PROJECT_DIR$/marcswilson/marcswilson.csproj" />
-        <option value="$PROJECT_DIR$/marcswilson/wwwroot/ngApp/package.json" />
         <option value="$PROJECT_DIR$/marcswilson/.gitignore" />
+        <option value="$PROJECT_DIR$/marcswilson/wwwroot/ngApp/angular.json" />
+        <option value="$PROJECT_DIR$/marcswilson/wwwroot/ngApp/package.json" />
+        <option value="$PROJECT_DIR$/marcswilson/Startup.cs" />
       </list>
     </option>
   </component>
@@ -183,7 +123,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -196,25 +135,13 @@
               <item name="marcswilson (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="marcswilson" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="marcswilson (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="marcswilson" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="wwwroot" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="marcswilson (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="marcswilson" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="wwwroot" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="ngapp" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
           </expand>
           <select />
         </subPane>
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -286,12 +213,13 @@
       <option name="presentableId" value="Default" />
       <updated>1528588415385</updated>
       <workItem from="1528588417251" duration="792000" />
-      <workItem from="1528589283647" duration="3423000" />
+      <workItem from="1528589283647" duration="4590000" />
+      <workItem from="1528666528172" duration="390000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4215000" />
+    <option name="totallyTimeSpent" value="5772000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -304,6 +232,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-2560" y="0" width="2560" height="1440" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -311,15 +240,15 @@
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296131" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25377283" sideWeight="0.50388455" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3296131" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25377283" sideWeight="0.50388455" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296131" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296131" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25377283" sideWeight="0.49611542" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25575852" sideWeight="0.49611542" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296131" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39955357" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39955357" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -341,32 +270,32 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/marcswilson/Controllers/HomeController.cs">
+    <entry file="file://$PROJECT_DIR$/marcswilson/Startup.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="9" lean-forward="false" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-          <folding />
+        <state relative-caret-position="495">
+          <caret line="41" column="36" lean-forward="false" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
+          <folding>
+            <marker date="1528666705391" expanded="false" signature="6:309" ph="..." />
+            <marker date="1528666705391" expanded="true" signature="332:1904" ph="{...}" />
+            <marker date="1528666705391" expanded="true" signature="359:1902" ph="{...}" />
+            <marker date="1528666705391" expanded="true" signature="418:481" ph="{...}" />
+            <marker date="1528666705391" expanded="true" signature="704:904" ph="{...}" />
+            <marker date="1528666705391" expanded="true" signature="1092:1896" ph="{...}" />
+            <marker date="1528666705391" expanded="true" signature="1139:1216" ph="{...}" />
+            <marker date="1528666705391" expanded="true" signature="1233:1317" ph="{...}" />
+            <marker date="1528666705391" expanded="true" signature="1423:1594" ph="{...}" />
+            <marker date="1528666705391" expanded="true" signature="1639:1884" ph="{...}" />
+            <marker date="1528666705391" expanded="true" signature="1753:1870" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/marcswilson/Models/ErrorViewModel.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/marcswilson/Controllers/HomeController.cs" />
+    <entry file="file://$PROJECT_DIR$/marcswilson/Models/ErrorViewModel.cs" />
     <entry file="file://$PROJECT_DIR$/marcswilson/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1528588417618" expanded="false" signature="6:255" ph="..." />
-            <marker date="1528588417618" expanded="true" signature="278:599" ph="{...}" />
-            <marker date="1528588417618" expanded="true" signature="305:597" ph="{...}" />
-            <marker date="1528588417618" expanded="true" signature="358:416" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -375,167 +304,41 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1528589657673" expanded="false" signature="6:309" ph="..." />
-            <marker date="1528589657673" expanded="true" signature="332:1848" ph="{...}" />
-            <marker date="1528589657673" expanded="true" signature="359:1846" ph="{...}" />
-            <marker date="1528589657673" expanded="true" signature="418:481" ph="{...}" />
-            <marker date="1528589657673" expanded="true" signature="704:864" ph="{...}" />
-            <marker date="1528589657673" expanded="true" signature="1052:1840" ph="{...}" />
-            <marker date="1528589657673" expanded="true" signature="1099:1176" ph="{...}" />
-            <marker date="1528589657673" expanded="true" signature="1193:1277" ph="{...}" />
-            <marker date="1528589657673" expanded="true" signature="1383:1554" ph="{...}" />
-            <marker date="1528589657673" expanded="true" signature="1599:1828" ph="{...}" />
-            <marker date="1528589657673" expanded="true" signature="1713:1814" ph="{...}" />
+            <marker date="1528666705391" expanded="false" signature="6:309" ph="..." />
+            <marker date="1528666705391" expanded="true" signature="332:1904" ph="{...}" />
+            <marker date="1528666705391" expanded="true" signature="359:1902" ph="{...}" />
+            <marker date="1528666705391" expanded="true" signature="418:481" ph="{...}" />
+            <marker date="1528666705391" expanded="true" signature="704:904" ph="{...}" />
+            <marker date="1528666705391" expanded="true" signature="1092:1896" ph="{...}" />
+            <marker date="1528666705391" expanded="true" signature="1139:1216" ph="{...}" />
+            <marker date="1528666705391" expanded="true" signature="1233:1317" ph="{...}" />
+            <marker date="1528666705391" expanded="true" signature="1423:1594" ph="{...}" />
+            <marker date="1528666705391" expanded="true" signature="1639:1884" ph="{...}" />
+            <marker date="1528666705391" expanded="true" signature="1753:1870" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/marcswilson/Views/_ViewStart.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/marcswilson/Views/_ViewImports.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/marcswilson/Views/Shared/_ValidationScriptsPartial.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/marcswilson/Views/Home/Contact.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/marcswilson/Views/Home/About.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/marcswilson/Views/Shared/_Layout.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="46" lean-forward="false" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/marcswilson/Views/Shared/Error.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/marcswilson/Views/Home/Index.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/marcswilson/Views/Home/Contact.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/marcswilson/Views/Home/About.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/marcswilson/Controllers/HomeController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="9" lean-forward="false" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/marcswilson/Models/ErrorViewModel.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/marcswilson/Views/_ViewStart.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/marcswilson/Views/_ViewImports.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/marcswilson/Views/Shared/_ValidationScriptsPartial.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/marcswilson/Views/Shared/_Layout.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="7" lean-forward="false" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/marcswilson/wwwroot/ngApp/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/marcswilson/Views/_ViewStart.cshtml" />
+    <entry file="file://$PROJECT_DIR$/marcswilson/Views/_ViewImports.cshtml" />
+    <entry file="file://$PROJECT_DIR$/marcswilson/Views/Shared/_ValidationScriptsPartial.cshtml" />
+    <entry file="file://$PROJECT_DIR$/marcswilson/Views/Home/Contact.cshtml" />
+    <entry file="file://$PROJECT_DIR$/marcswilson/Views/Home/About.cshtml" />
+    <entry file="file://$PROJECT_DIR$/marcswilson/Views/Shared/_Layout.cshtml" />
+    <entry file="file://$PROJECT_DIR$/marcswilson/Views/Shared/Error.cshtml" />
+    <entry file="file://$PROJECT_DIR$/marcswilson/Views/Home/Index.cshtml" />
+    <entry file="file://$PROJECT_DIR$/marcswilson/Views/Home/Contact.cshtml" />
+    <entry file="file://$PROJECT_DIR$/marcswilson/Views/Home/About.cshtml" />
+    <entry file="file://$PROJECT_DIR$/marcswilson/Controllers/HomeController.cs" />
+    <entry file="file://$PROJECT_DIR$/marcswilson/Models/ErrorViewModel.cs" />
+    <entry file="file://$PROJECT_DIR$/marcswilson/Views/_ViewStart.cshtml" />
+    <entry file="file://$PROJECT_DIR$/marcswilson/Views/_ViewImports.cshtml" />
+    <entry file="file://$PROJECT_DIR$/marcswilson/Views/Shared/_ValidationScriptsPartial.cshtml" />
+    <entry file="file://$PROJECT_DIR$/marcswilson/Views/Shared/_Layout.cshtml" />
     <entry file="file://$PROJECT_DIR$/marcswilson/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1528588417618" expanded="false" signature="6:255" ph="..." />
-            <marker date="1528588417618" expanded="true" signature="278:599" ph="{...}" />
-            <marker date="1528588417618" expanded="true" signature="305:597" ph="{...}" />
-            <marker date="1528588417618" expanded="true" signature="358:416" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -543,7 +346,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="9" lean-forward="false" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -551,7 +353,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -559,7 +360,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -567,7 +367,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -575,27 +374,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/marcswilson/Startup.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding>
-            <marker date="1528589657673" expanded="false" signature="6:309" ph="..." />
-            <marker date="1528589657673" expanded="true" signature="332:1848" ph="{...}" />
-            <marker date="1528589657673" expanded="true" signature="359:1846" ph="{...}" />
-            <marker date="1528589657673" expanded="true" signature="418:481" ph="{...}" />
-            <marker date="1528589657673" expanded="true" signature="704:864" ph="{...}" />
-            <marker date="1528589657673" expanded="true" signature="1052:1840" ph="{...}" />
-            <marker date="1528589657673" expanded="true" signature="1099:1176" ph="{...}" />
-            <marker date="1528589657673" expanded="true" signature="1193:1277" ph="{...}" />
-            <marker date="1528589657673" expanded="true" signature="1383:1554" ph="{...}" />
-            <marker date="1528589657673" expanded="true" signature="1599:1828" ph="{...}" />
-            <marker date="1528589657673" expanded="true" signature="1713:1814" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -604,6 +382,40 @@
         <state relative-caret-position="510">
           <caret line="34" column="71" lean-forward="false" selection-start-line="34" selection-start-column="71" selection-end-line="34" selection-end-column="71" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/marcswilson/wwwroot/ngApp/angular.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="771">
+          <caret line="125" column="26" lean-forward="false" selection-start-line="125" selection-start-column="21" selection-end-line="125" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/marcswilson/wwwroot/ngApp/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="35" lean-forward="false" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/marcswilson/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="24" column="30" lean-forward="false" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+          <folding>
+            <marker date="1528666705391" expanded="false" signature="6:309" ph="..." />
+            <marker date="1528666705391" expanded="true" signature="332:1904" ph="{...}" />
+            <marker date="1528666705391" expanded="true" signature="359:1902" ph="{...}" />
+            <marker date="1528666705391" expanded="true" signature="418:481" ph="{...}" />
+            <marker date="1528666705391" expanded="true" signature="704:904" ph="{...}" />
+            <marker date="1528666705391" expanded="true" signature="1092:1896" ph="{...}" />
+            <marker date="1528666705391" expanded="true" signature="1139:1216" ph="{...}" />
+            <marker date="1528666705391" expanded="true" signature="1233:1317" ph="{...}" />
+            <marker date="1528666705391" expanded="true" signature="1423:1594" ph="{...}" />
+            <marker date="1528666705391" expanded="true" signature="1639:1884" ph="{...}" />
+            <marker date="1528666705391" expanded="true" signature="1753:1870" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>

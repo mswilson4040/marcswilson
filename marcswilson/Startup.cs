@@ -23,6 +23,7 @@ namespace marcswilson
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc();
+            services.AddNodeServices();
             services.AddSpaStaticFiles(configuration => { configuration.RootPath = "wwwroot/ngapp/dist"; });
         }
 
@@ -54,7 +55,7 @@ namespace marcswilson
 
                 if (env.IsDevelopment())
                 {
-                    spa.UseAngularCliServer(npmScript: "start");
+                    spa.UseProxyToSpaDevelopmentServer("http://localhost:4200");
                 }
             });
         }

@@ -24,6 +24,7 @@
       "marcswilson/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.All": "2.0.5",
+          "Microsoft.AspNetCore.NodeServices": "2.1.0",
           "Microsoft.AspNetCore.SpaServices.Extensions": "2.1.0",
           "Microsoft.NETCore.App": "2.0.0"
         },

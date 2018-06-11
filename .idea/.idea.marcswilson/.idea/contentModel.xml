@@ -5,13 +5,6 @@
     <e p="$PROJECT_DIR$" t="IncludeFlat">
       <e p="marcswilson" t="IncludeRecursive">
         <e p=".gitignore" t="Include" />
-        <e p=".vs" t="Include">
-          <e p="marcswilson" t="Include">
-            <e p="xs" t="Include">
-              <e p="UserPrefs.xml" t="Include" />
-            </e>
-          </e>
-        </e>
         <e p="appsettings.Development.json" t="Include" />
         <e p="appsettings.json" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
@@ -32,6 +25,19 @@
           <e p="ngApp" t="Include">
             <e p=".editorconfig" t="Include" />
             <e p=".gitignore" t="Include" />
+            <e p=".idea" t="Include">
+              <e p="codeStyles" t="Include">
+                <e p="codeStyleConfig.xml" t="Include" />
+                <e p="Project.xml" t="Include" />
+              </e>
+              <e p="inspectionProfiles" t="Include">
+                <e p="Project_Default.xml" t="Include" />
+              </e>
+              <e p="misc.xml" t="Include" />
+              <e p="modules.xml" t="Include" />
+              <e p="ngApp.iml" t="Include" />
+              <e p="workspace.xml" t="Include" />
+            </e>
             <e p="angular.json" t="Include" />
             <e p="e2e" t="Include">
               <e p="protractor.conf.js" t="Include" />
@@ -47,11 +53,19 @@
             <e p="src" t="Include">
               <e p="app" t="Include">
                 <e p="app-routing.module.ts" t="Include" />
-                <e p="app.component.css" t="Include" />
                 <e p="app.component.html" t="Include" />
+                <e p="app.component.scss" t="Include" />
                 <e p="app.component.spec.ts" t="Include" />
                 <e p="app.component.ts" t="Include" />
                 <e p="app.module.ts" t="Include" />
+                <e p="Views" t="Include">
+                  <e p="home-view" t="Include">
+                    <e p="home-view.component.html" t="Include" />
+                    <e p="home-view.component.scss" t="Include" />
+                    <e p="home-view.component.spec.ts" t="Include" />
+                    <e p="home-view.component.ts" t="Include" />
+                  </e>
+                </e>
               </e>
               <e p="assets" t="Include">
                 <e p=".gitkeep" t="Include" />
@@ -66,7 +80,7 @@
               <e p="karma.conf.js" t="Include" />
               <e p="main.ts" t="Include" />
               <e p="polyfills.ts" t="Include" />
-              <e p="styles.css" t="Include" />
+              <e p="styles.scss" t="Include" />
               <e p="test.ts" t="Include" />
               <e p="tsconfig.app.json" t="Include" />
               <e p="tsconfig.spec.json" t="Include" />

@@ -1,0 +1,31 @@
+#homeView {
+  height: 100%;
+  display: grid;
+  grid-template-areas: "header"
+                       "main"
+                       "footer";
+  grid-template-rows: 30% 1fr auto;
+  header {
+    grid-area: header;
+    background: url('../../../images/jumbotron-seats.jpg');
+    background-size: cover;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    #profilePic {
+      position: absolute;
+      bottom: -50px;
+      border-radius: 100px;
+      background: url('../../../images/mountainbackground.jpg');
+      background-size: cover;
+      height: 125px;
+      width: 125px;
+    }
+  }
+  main {
+    grid-area: main;
+  }
+  footer {
+    grid-area: footer;
+  }
+}
