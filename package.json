@@ -1,0 +1,28 @@
+{
+  "name": "marcswilson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mswilson4040/marcswilson.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mswilson4040/marcswilson/issues"
+  },
+  "homepage": "https://github.com/mswilson4040/marcswilson#readme",
+  "dependencies": {
+    "csvtojson": "^1.1.9",
+    "download-git-repo": "^1.0.2",
+    "fs-extra": "^6.0.1",
+    "mongodb": "^2.2.35"
+  },
+  "devDependencies": {
+    "typescript": "^2.9.1"
+  }
+}

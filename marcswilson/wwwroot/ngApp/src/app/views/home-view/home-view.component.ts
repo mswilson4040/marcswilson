@@ -13,26 +13,26 @@ export class HomeViewComponent implements OnInit {
   }
 
   ngOnInit() {
-    const config = {
-      open: {
-        scale: 1,
-        opacity: 1,
-        transition: {
-          duration: 300
-        }
-      },
-      closed: {
-        opacity: 0,
-        scale: 0,
-        transition: {
-          duration: 100
-        }
-      },
-      initialPose: 'closed'
-    };
-    const el = this._elementRef.nativeElement.querySelector('#profilePic');
-    const poser = pose(el, config);
-    poser.set('open');
+    // const config = {
+    //   open: {
+    //     scale: 1,
+    //     opacity: 1,
+    //     transition: {
+    //       duration: 300
+    //     }
+    //   },
+    //   closed: {
+    //     opacity: 0,
+    //     scale: 0,
+    //     transition: {
+    //       duration: 100
+    //     }
+    //   },
+    //   initialPose: 'closed'
+    // };
+    // const el = this._elementRef.nativeElement.querySelector('#profilePic');
+    // const poser = pose(el, config);
+    // poser.set('open');
   }
 
 }
